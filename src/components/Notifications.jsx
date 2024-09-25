@@ -4,7 +4,6 @@ import { useUser } from '../contexts/UserContext'
 import { useQuery } from '@tanstack/react-query'
 import { toast } from 'react-hot-toast'
 import { getNotifications } from '../services/api'
-import PageLoader from '../ui/pageLoader'
 import { TailSpin } from 'react-loader-spinner'
 
 export default function Notifications({
