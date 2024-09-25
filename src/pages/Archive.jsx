@@ -2,7 +2,7 @@ import CustomSelect from '../components/CustomSelect'
 import Request from '../components/Request'
 import CustomCheckbox from '../components/CustomCheckbox'
 import useArchive from './useArchive'
-import PageLoader from '../ui/pageLoader'
+import PageLoader from '../ui/PageLoader'
 
 export default function Archive() {
     const {
