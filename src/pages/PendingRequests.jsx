@@ -3,7 +3,7 @@ import Request from '../components/Request'
 import { useUser } from '../contexts/UserContext'
 import { getPendingRequests } from '../services/requestsApi'
 import { toast } from 'react-hot-toast'
-import PageLoader from '../ui/pageLoader'
+import PageLoader from '../ui/PageLoader'
 import { queryClient } from '../main'
 
 export default function PendingRequests() {
