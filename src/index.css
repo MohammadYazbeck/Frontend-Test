@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+    font-weight: 700;
+    border-bottom: 0.2rem solid;
+    font-size: 1.3rem;
+    max-width: 100%;
+}
+
+@layer utilities {
+    .my-scrollbar::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    /* Track */
+    .my-scrollbar::-webkit-scrollbar-track {
+        background: white;
+    }
+
+    /* Handle */
+    .my-scrollbar::-webkit-scrollbar-thumb {
+        background: rgb(88 28 135 / 0.9);
+        border-radius: 20px;
+    }
+
+    /* Handle on hover */
+    .my-scrollbar::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+}

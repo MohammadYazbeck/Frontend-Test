@@ -1,0 +1,50 @@
+[
+    {
+        "governorate": "اللاذقية",
+        "username": "latakia"
+    },
+    {
+        "governorate": "طرطوس",
+        "username": "tartus"
+    },
+    {
+        "governorate": "دير الزور",
+        "username": "deirezzor"
+    },
+    {
+        "governorate": "السويداء",
+        "username": "assuwayda"
+    },
+    {
+        "governorate": "حماه",
+        "username": "hama"
+    },
+    {
+        "governorate": "حمص",
+        "username": "homs"
+    },
+    {
+        "governorate": "حلب",
+        "username": "aleppo"
+    },
+    {
+        "governorate": "دمشق - نساء",
+        "username": "damaswomen"
+    },
+    {
+        "governorate": "دمشق - درعا",
+        "username": "damasdaraa"
+    },
+    {
+        "governorate": "دمشق - قطنا",
+        "username": "damasqatna"
+    },
+    {
+        "governorate": "دمشق - القنيطرة",
+        "username": "damasquneitra"
+    },
+    {
+        "governorate": "دمشق - رجال",
+        "username": "damasmen"
+    }
+]

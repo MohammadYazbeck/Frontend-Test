@@ -1,0 +1,61 @@
+[
+    {
+        "username": "latakia",
+        "device_numbers": ["6324141411", "6324141412"]
+    },
+    {
+        "username": "tartus",
+        "device_numbers": ["6324343431", "6324343432"]
+    },
+    {
+        "username": "deirezzor",
+        "device_numbers": ["6325151511"]
+    },
+    {
+        "username": "assuwayda",
+        "device_numbers": ["6321616162"]
+    },
+    {
+        "username": "hama",
+        "device_numbers": ["6323333331", "6323333332"]
+    },
+    {
+        "username": "homs",
+        "device_numbers": ["6323131311", "6323131312"]
+    },
+    {
+        "username": "aleppo",
+        "device_numbers": ["6322121211", "6322121212", "6322121213"]
+    },
+    {
+        "username": "damaswomen",
+        "device_numbers": ["6325858582", "6325858592"]
+    },
+    {
+        "username": "damasdaraa",
+        "device_numbers": ["6321515151"]
+    },
+    {
+        "username": "damasqatna",
+        "device_numbers": ["6325858581"]
+    },
+    {
+        "username": "damasquneitra",
+        "device_numbers": ["6321414141"]
+    },
+    {
+        "username": "damasmen",
+        "device_numbers": ["6325858580",
+            "6325858583",
+            "6325858584",
+            "6325858585",
+            "6325858586",
+            "6325858587",
+            "6325858588",
+            "6325858589",
+            "6325858590",
+            "6325858591",
+            "6325858593",
+            "6325858594"]
+    }
+]
