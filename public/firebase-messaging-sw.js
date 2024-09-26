@@ -22,14 +22,18 @@ self.addEventListener('notificationclick', function (event) {
                         return clientList[0].focus()
                     }
                     // If no window is open, open a new one
-                    return clients.openWindow('http://localhost:5173')
+                    return clients.openWindow(
+                        'https://frontend-test-wfj8.onrender.com'
+                    )
                 })
         )
     } else if (action === 'dismiss') {
         console.log('Notification dismissed by the user.')
     } else {
         // Handle default notification click (outside action buttons)
-        event.waitUntil(clients.openWindow('http://localhost:5173'))
+        event.waitUntil(
+            clients.openWindow('https://frontend-test-wfj8.onrender.com/')
+        )
     }
 })
 
