@@ -12,7 +12,7 @@ export default function RequestDetailsImage({ photo }) {
     return (
         <>
             {photo ? (
-                <div className="mx-auto mb-14 mt-4 flex h-[45rem] w-[45rem] items-center justify-center overflow-hidden rounded-lg border border-gray-300 p-5 xl:h-[50rem] xl:w-[50rem]">
+                <div className="mx-auto mb-14 mt-4 flex h-[20rem] w-[20rem] items-center justify-center overflow-hidden rounded-lg border border-gray-300 p-5 sm:h-[35rem] sm:w-[35rem] md:h-[40rem] md:w-[40rem] xl:h-[45rem] xl:w-[45rem]">
                     <div
                         className="relative w-[75%] cursor-crosshair bg-cover bg-no-repeat"
                         onMouseMove={handleMouseMove}
