@@ -156,8 +156,8 @@ export default function RequestDetails() {
                             'admin/pending-requests'
                         ) ? (
                             <>
-                                <div className="mx-auto max-w-[90%]">
-                                    <span className="ml-2 mt-6 flex justify-end font-bold text-purple-900/90">
+                                <div className="mx-auto max-w-[100%]">
+                                    <span className="mb-8 ml-2 mt-6 flex justify-end font-bold text-purple-900/90">
                                         :صورة الاشعار
                                     </span>
                                     <RequestDetailsImage
